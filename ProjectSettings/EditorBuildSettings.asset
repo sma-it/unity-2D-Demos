@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MousePostion.unity
+    path: Assets/Scenes/Menu.unity
+    guid: b2cd989f641a7244daf396393be4f53e
+  - enabled: 1
+    path: Assets/Scenes/MouseClicks.unity
+    guid: 48b779e392af02748b100ed16d332548
+  - enabled: 1
+    path: Assets/Scenes/MousePosition.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
